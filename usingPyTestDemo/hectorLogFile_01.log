@@ -1,0 +1,49 @@
+2021-09-27 14:09:12,147  :  INFO  :  usingPyTestDemo.test_10Logging  :  statement read Employees file successfully executed 
+2021-09-27 14:09:12,148  :  WARNING  :  usingPyTestDemo.test_10Logging  :  Negative balance found when Credit Card payment 
+2021-09-27 14:09:12,148  :  ERROR  :  usingPyTestDemo.test_10Logging  :   Account not found 
+2021-09-27 14:09:12,148  :  CRITICAL  :  usingPyTestDemo.test_10Logging  :  Failing signing in the main web page 
+2021-09-27 14:10:49,112  :  ERROR  :  usingPyTestDemo.test_10Logging  :   Account not found 
+2021-09-27 14:10:49,113  :  CRITICAL  :  usingPyTestDemo.test_10Logging  :  Failing signing in the main web page 
+2021-09-27 14:11:36,774  :  ERROR  :  usingPyTestDemo.test_10Logging  :   Account not found 
+2021-09-27 14:11:36,774  :  CRITICAL  :  usingPyTestDemo.test_10Logging  :  Failing signing in the main web page 
+2021-09-27 14:12:15,979  :  CRITICAL  :  usingPyTestDemo.test_10Logging  :  Failing signing in the main web page 
+2021-09-27 18:32:00,728  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:00,738  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', ('Class-Firefox', 'Class-userId4', 'Class-password4')) 
+2021-09-27 18:32:01,227  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:01,227  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:01,542  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:01,542  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:01,542  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:01,542  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:01,542  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', 'Class-Chrome') 
+2021-09-27 18:32:01,542  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', 'Class-Chrome') 
+2021-09-27 18:32:01,542  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', 'Class-Chrome') 
+2021-09-27 18:32:01,542  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', 'Class-Chrome') 
+2021-09-27 18:32:01,885  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:01,885  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:01,885  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:01,885  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:01,885  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:02,170  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:02,170  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:02,170  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:02,170  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:02,170  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:02,170  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:02,170  :  INFO  :  usingPyTestDemo.LoggerClass  :  First message sent with the get_logger() from a class wrapped testCase 
+2021-09-27 18:32:02,171  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', ('Class-Firefox', 'Class-userId4')) 
+2021-09-27 18:32:02,171  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', ('Class-Firefox', 'Class-userId4')) 
+2021-09-27 18:32:02,171  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', ('Class-Firefox', 'Class-userId4')) 
+2021-09-27 18:32:02,171  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', ('Class-Firefox', 'Class-userId4')) 
+2021-09-27 18:32:02,171  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', ('Class-Firefox', 'Class-userId4')) 
+2021-09-27 18:32:02,171  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', ('Class-Firefox', 'Class-userId4')) 
+2021-09-27 18:32:02,171  :  INFO  :  usingPyTestDemo.LoggerClass  :  (' 03 ** cross_browsers_data_fixture04_class content:', ('Class-Firefox', 'Class-userId4')) 
+2021-09-27 18:32:02,475  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:02,475  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:02,475  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:02,475  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:02,475  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:02,475  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:02,475  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 18:32:02,475  :  INFO  :  usingPyTestDemo.LoggerClass  :  *** Executing a test without parameters *** 
+2021-09-27 21:58:36,965  :  CRITICAL  :  usingPyTestDemo.test_10_0Logging  :  Failing signing in the main web page 

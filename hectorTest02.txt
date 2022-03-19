@@ -1,0 +1,8 @@
+08-Purple
+07-Black
+06-White
+05-Yellow
+04-Pink
+03-Blue
+02-Green
+01-Red
